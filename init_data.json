@@ -1,9 +1,9 @@
 {
   "data": {
-    "1" : { "id": 1, "name": "King Size Bed", "price": "300", "img": "./img/bed.jpg"},
-    "2" : { "id": 2, "name": "Comfy Slippers", "price": "15", "img": "./img/slippers.jpg"},
-    "3" : { "id": 3, "name": "CD Rack", "price": "100", "img": "./img/rack.jpg"},
-    "4" : { "id": 4, "name": "Glow Stick Bundle", "price": "10", "img": "./img/sticks.jpg"},
-    "5" : { "id": 5, "name": "Cookie Jar", "price": "25", "img": "./img/cookies.jpg"}
+    "1" : { "id": 1, "name": "King Size Bed", "price": "300", "img": "https://dezigndistrict.com/pub/media/mageplaza/blog/post/n/o/nopath---copy-_5_.jpg"},
+    "2" : { "id": 2, "name": "Comfy Slippers", "price": "15", "img": "https://thumbs.dreamstime.com/b/slippers-violet-isolated-background-35167273.jpg"},
+    "3" : { "id": 3, "name": "CD Rack", "price": "100", "img": "https://media.istockphoto.com/id/480019444/photo/cd-collection.jpg?s=612x612&w=0&k=20&c=Yx9GQ0xzIod3sJPusM0ycBvN0C7I438Hf8bwFDIXsRI="},
+    "4" : { "id": 4, "name": "Glow Stick Bundle", "price": "10", "img": "https://st.depositphotos.com/3652685/5138/i/450/depositphotos_51389435-stock-photo-glow-sticks.jpg"},
+    "5" : { "id": 5, "name": "Cookie Jar", "price": "25", "img": "https://images.pexels.com/photos/4047133/pexels-photo-4047133.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"}
   }
 }
